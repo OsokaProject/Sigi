@@ -73,13 +73,13 @@
     "images" : [
         {
             "mimeType" : "image/png",
-            "name" : "KS Round Corner-Inner Indigo FullcolorTexture",
-            "uri" : "KS%20Round%20Corner-Inner%20Indigo%20FullcolorTexture.png"
+            "name" : "KS Round Corner-Inner Indigo FullcolorTexture.png",
+            "uri" : "KS%20Round%20Corner-Inner%20Indigo%20FullcolorTexture_png.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Indigo Fullcolor Shine",
-            "uri" : "Indigo%20Fullcolor%20Shine.png"
+            "name" : "Indigo Fullcolor Shine.png",
+            "uri" : "Indigo%20Fullcolor%20Shine_png.png"
         }
     ],
     "accessors" : [
